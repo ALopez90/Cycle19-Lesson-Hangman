@@ -1,6 +1,6 @@
-# 🐍 Hangman (Mini) — Instructor-Ready Lesson
+# 🐍 Hangman
 
-Lightweight, beginner-friendly **Python CLI Hangman**. Teach input handling, loops, conditionals, sets, functions, and simple state machines in **~90 minutes**. Includes step-by-step plan, quizzes, challenges, and a fully commented solution.
+Lightweight, beginner-friendly **Python CLI Hangman**. Teach input handling, loops, conditionals, sets, functions.
 
 ---
 
