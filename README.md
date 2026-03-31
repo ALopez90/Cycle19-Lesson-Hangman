@@ -1,10 +1,10 @@
-# 🐍 Hangman
+# Hangman
 
 Lightweight, beginner-friendly **Python CLI Hangman**. Teach input handling, loops, conditionals, sets, functions.
 
 ---
 
-## 🧰 Tools & Setup
+## Tools & Setup
 
 **You’ll Need**
 - **Python 3.9+** (3.11 recommended). Check with:
@@ -35,7 +35,7 @@ python3 hangman.py
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end, learners can:
 1. Read and validate user input from the terminal
@@ -68,7 +68,7 @@ By the end, learners can:
 
 ---
 
-## 🧯 Troubleshooting
+## Troubleshooting
 
 | Symptom | Likely Fix |
 |--------|------------|
