@@ -58,13 +58,13 @@ By the end, learners can:
 
 ## Challenges
 
-1) **Word Source Swap** — Load words from a text file (one per line) and skip short words.
-2) **Hint System** — Add one free reveal per game (`hint` command).
-3) **Difficulty Modes** — Easy/Normal/Hard adjust `MAX_TRIES` and word length.
-4) **ASCII Art Hangman** — Draw a gallows that updates each miss.
-5) **Scoreboard** — Track wins/losses in a local JSON file.
-6) **Phrase Mode** — Support spaces and apostrophes in phrases.
-7) **Tests** — Add simple unit tests for `render_mask` and validation logic.
+1) **Word Source Swap** - Load words from a text file (one per line) and skip short words.
+2) **Hint System** - Add one free reveal per game (`hint` command).
+3) **Difficulty Modes** - Easy/Normal/Hard adjust `MAX_TRIES` and word length.
+4) **ASCII Art Hangman** - Draw a gallows that updates each miss.
+5) **Scoreboard** - Track wins/losses in a local JSON file.
+6) **Phrase Mode** - Support spaces and apostrophes in phrases.
+7) **Tests** - Add simple unit tests for `render_mask` and validation logic.
 
 ---
 
